@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|c:\\users\\ahmad\\downloads\\bulkybook_web-test\\bulky.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|c:\\users\\ahmad\\downloads\\bulkybook_web-test\\bulky.dataaccess\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|c:\\users\\ahmad\\downloads\\bulkybook_web-test\\bulky.dataaccess\\repository\\uintofwork\\iuintofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\uintofwork\\iuintofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|c:\\users\\ahmad\\downloads\\bulkybook_web-test\\bulky.dataaccess\\repository\\uintofwork\\uintofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\uintofwork\\uintofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|c:\\users\\ahmad\\downloads\\bulkybook_web-test\\bulky.dataaccess\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|solutionrelative:bulky.dataaccess\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|c:\\users\\ahmad\\downloads\\bulkybook_web-test\\bulky.dataaccess\\migrations\\mycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\mycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|c:\\users\\ahmad\\downloads\\bulkybook_web-test\\bulky.dataaccess\\migrations\\20250220074509_product imageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20250220074509_product imageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|c:\\users\\ahmad\\downloads\\bulkybook_web-test\\bulky.dataaccess\\migrations\\20250220073813_product foregnkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20250220073813_product foregnkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|c:\\users\\ahmad\\downloads\\bulkybook_web-test\\bulky.dataaccess\\migrations\\20250219140445_product_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20250219140445_product_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|c:\\users\\ahmad\\downloads\\bulkybook_web-test\\bulky.dataaccess\\migrations\\20250213123412_categorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20250213123412_categorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A740F11-8A53-45E0-9D0A-8B3EF1920272}|Bulky.Models1\\BulkyBookModels1.csproj|c:\\users\\ahmad\\downloads\\bulkybook_web-test\\bulky.models1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A740F11-8A53-45E0-9D0A-8B3EF1920272}|Bulky.Models1\\BulkyBookModels1.csproj|solutionrelative:bulky.models1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A740F11-8A53-45E0-9D0A-8B3EF1920272}|Bulky.Models1\\BulkyBookModels1.csproj|c:\\users\\ahmad\\downloads\\bulkybook_web-test\\bulky.models1\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A740F11-8A53-45E0-9D0A-8B3EF1920272}|Bulky.Models1\\BulkyBookModels1.csproj|solutionrelative:bulky.models1\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A740F11-8A53-45E0-9D0A-8B3EF1920272}|Bulky.Models1\\BulkyBookModels1.csproj|c:\\users\\ahmad\\downloads\\bulkybook_web-test\\bulky.models1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A740F11-8A53-45E0-9D0A-8B3EF1920272}|Bulky.Models1\\BulkyBookModels1.csproj|solutionrelative:bulky.models1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D4C18D-659B-4E88-8EB4-162B5FEFF937}|Bulky_Web\\BulkyBook_Web.csproj|c:\\users\\ahmad\\downloads\\bulkybook_web-test\\bulky_web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D4C18D-659B-4E88-8EB4-162B5FEFF937}|Bulky_Web\\BulkyBook_Web.csproj|solutionrelative:bulky_web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|c:\\users\\ahmad\\downloads\\bulkybook_web-test\\bulky.dataaccess\\repository\\irepositry\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepositry\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|c:\\users\\ahmad\\downloads\\bulkybook_web-test\\bulky.dataaccess\\repository\\irepositry\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41C1624-8FA0-4804-ACD3-28517599565A}|Bulky.DataAccess\\BulkyBookDataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepositry\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D4C18D-659B-4E88-8EB4-162B5FEFF937}|Bulky_Web\\BulkyBook_Web.csproj|c:\\users\\ahmad\\downloads\\bulkybook_web-test\\bulky_web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{30D4C18D-659B-4E88-8EB4-162B5FEFF937}|Bulky_Web\\BulkyBook_Web.csproj|solutionrelative:bulky_web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:58:42.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Migrations\\MyContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\MyContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Migrations\\MyContextModelSnapshot.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\MyContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:32:01.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250220074509_Product ImageUrl.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Migrations\\20250220074509_Product ImageUrl.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20250220074509_Product ImageUrl.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Migrations\\20250220074509_Product ImageUrl.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20250220074509_Product ImageUrl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:32:00.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250220073813_product foregnkey.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Migrations\\20250220073813_product foregnkey.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20250220073813_product foregnkey.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Migrations\\20250220073813_product foregnkey.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20250220073813_product foregnkey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:31:59.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250219140445_Product_First.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Migrations\\20250219140445_Product_First.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20250219140445_Product_First.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Migrations\\20250219140445_Product_First.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20250219140445_Product_First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:31:57.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250213123412_CategoryTable.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Migrations\\20250213123412_CategoryTable.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20250213123412_CategoryTable.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Migrations\\20250213123412_CategoryTable.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20250213123412_CategoryTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:31:56.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.Models1\\Product.cs",
+              "RelativeDocumentMoniker": "Bulky.Models1\\Product.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.Models1\\Product.cs",
+              "RelativeToolTip": "Bulky.Models1\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:31:43.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.Models1\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Bulky.Models1\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.Models1\\ErrorViewModel.cs",
+              "RelativeToolTip": "Bulky.Models1\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:31:42.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.Models1\\Category.cs",
+              "RelativeDocumentMoniker": "Bulky.Models1\\Category.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.Models1\\Category.cs",
+              "RelativeToolTip": "Bulky.Models1\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:31:39.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:39:59.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Repository\\IRepositry\\IRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepositry\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Repository\\IRepositry\\IRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepositry\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:39:13.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Repository\\IRepositry\\Repository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepositry\\Repository.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Repository\\IRepositry\\Repository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepositry\\Repository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:39:11.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UintOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Repository\\UintOfWork\\UintOfWork.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\UintOfWork\\UintOfWork.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Repository\\UintOfWork\\UintOfWork.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\UintOfWork\\UintOfWork.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:38:02.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUintOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Repository\\UintOfWork\\IUintOfWork.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\UintOfWork\\IUintOfWork.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Repository\\UintOfWork\\IUintOfWork.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\UintOfWork\\IUintOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:37:43.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Context\\MyContext.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Context\\MyContext.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky.DataAccess\\Context\\MyContext.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Context\\MyContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:37:36.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky_Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Bulky_Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky_Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Bulky_Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:36:15.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky_Web\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Bulky_Web\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\BulkyBook_Web-test\\Bulky_Web\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Bulky_Web\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-16T04:17:13.375Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

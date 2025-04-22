@@ -1,0 +1,12 @@
+C:\Users\ahmad\Downloads\BulkyBook_Web-test\Bulky.Models1\bin\Debug\net9.0\BulkyBookModels1.deps.json
+C:\Users\ahmad\Downloads\BulkyBook_Web-test\Bulky.Models1\bin\Debug\net9.0\BulkyBookModels1.dll
+C:\Users\ahmad\Downloads\BulkyBook_Web-test\Bulky.Models1\bin\Debug\net9.0\BulkyBookModels1.pdb
+C:\Users\ahmad\Downloads\BulkyBook_Web-test\Bulky.Models1\obj\Debug\net9.0\BulkyBookModels1.csproj.AssemblyReference.cache
+C:\Users\ahmad\Downloads\BulkyBook_Web-test\Bulky.Models1\obj\Debug\net9.0\BulkyBookModels1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\Downloads\BulkyBook_Web-test\Bulky.Models1\obj\Debug\net9.0\BulkyBookModels1.AssemblyInfoInputs.cache
+C:\Users\ahmad\Downloads\BulkyBook_Web-test\Bulky.Models1\obj\Debug\net9.0\BulkyBookModels1.AssemblyInfo.cs
+C:\Users\ahmad\Downloads\BulkyBook_Web-test\Bulky.Models1\obj\Debug\net9.0\BulkyBookModels1.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Downloads\BulkyBook_Web-test\Bulky.Models1\obj\Debug\net9.0\BulkyBookModels1.dll
+C:\Users\ahmad\Downloads\BulkyBook_Web-test\Bulky.Models1\obj\Debug\net9.0\refint\BulkyBookModels1.dll
+C:\Users\ahmad\Downloads\BulkyBook_Web-test\Bulky.Models1\obj\Debug\net9.0\BulkyBookModels1.pdb
+C:\Users\ahmad\Downloads\BulkyBook_Web-test\Bulky.Models1\obj\Debug\net9.0\ref\BulkyBookModels1.dll
