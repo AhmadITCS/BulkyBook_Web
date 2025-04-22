@@ -1,0 +1,29 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.db
+*.sqlite
+*.log
+*.DS_Store
+*.env
+
+## Ignore NuGet packages
+packages/
+*.nupkg
+
+## Ignore build output
+build/
+debug/
+release/
+*.exe
+*.dll
+*.pdb
+
+## Others
+node_modules/
+dist/
+.env.*
